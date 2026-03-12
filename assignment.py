@@ -18,4 +18,15 @@ print("Name:", name)
 print("Age:", age)
 print("city:", city)
 
+# Question 6
+Languages = ["python", "java", "C++", "javascript", "Go"]
+print("First languages:", Languages[0])
 
+#Question 7 
+student = {
+ "name": "John",
+ "age": 21,
+ "course": "AI"
+}
+print("student name:",student["name"])
+             
