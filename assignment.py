@@ -22,11 +22,24 @@ print("city:", city)
 Languages = ["python", "java", "C++", "javascript", "Go"]
 print("First languages:", Languages[0])
 
-#Question 7 
+# Question 7 
 student = {
  "name": "John",
  "age": 21,
  "course": "AI"
 }
 print("student name:",student["name"])
+
+## Bonus Questions 
+#Difference betweem a a list and a dictionary
+ - a list stores items in order using indexes 
+languages = ["python", "java", "c++"]
+ -A dictionary stores data on key-value pairs
+student = {
+  "name": "john".
+  "age": 21,
+  "course": "AI"
+} 
+print("Examples of list:", languages)
+print(Examples of Dictionary:", student)
              
